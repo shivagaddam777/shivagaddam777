@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Shiva! 👋
 
-<!--
-**shivagaddam777/shivagaddam777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Expert
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools:
+- **Cloud:** Azure ☁️ | GCP 🌍
+- **Infrastructure as Code:** Terraform 🏗️
+- **CI/CD:** Azure DevOps 🚀 | Jenkins ⚙️
+- **Containerization & Orchestration:** Kubernetes 🐳 | Docker 📦 | Helm 🎩
+- **Security & Code Quality:** Trivy 🔍 | SonarQube 🛡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me:
+- Passionate about automating everything in the cloud-native ecosystem.
+- Love working on scalable and resilient architectures.
+- Always exploring new DevOps tools and best practices.
+
+### 📫 Connect with Me:
+- **GitHub:** https://github.com/shivagaddam777/
+
+⚡ **Let's collaborate and build amazing things together!**
+
