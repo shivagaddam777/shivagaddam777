@@ -1,83 +1,93 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=0A66C2&center=true&vCenter=true&width=1000&lines=Shiva+Kumar;Senior+Cloud+DevSecOps+Consultant;Enterprise+Multi-Cloud+Architect;Terraform+Platform+Engineering+Specialist;Zero-Trust+Security+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=0A66C2&center=true&vCenter=true&width=1000&lines=Shiva+Kumar;Senior+Cloud+DevSecOps+Consultant;Enterprise+Multi-Cloud+Architect;Terraform+Platform+Engineering+Specialist;Zero-Trust+Security+Advocate" />
 </p>
 
 ---
 
-## 👋 Hey there! I’m **Shiva Kumar**  
-**Senior Cloud DevSecOps Consultant & Enterprise Platform Architect**
+# 👋 Hey, I’m Shiva Kumar
 
-📍 Based in Toronto, Canada  
-🇨🇦 Canadian Citizen  
+### Senior Cloud DevSecOps Consultant | Enterprise Platform Architect
+
+📍 Toronto, Canada 🇨🇦
+🔐 Designing secure, automated, enterprise-scale cloud platforms
 
 ---
 
-## 💼 Professional Tagline
+## 💼 Professional Summary
 
-Turning complex cloud challenges into **secure, automated, and scalable solutions** —  
-built with Terraform, Kubernetes, GitOps, and modern DevSecOps practices.
+I transform complex enterprise cloud environments into **secure, scalable, and fully automated platforms** using Infrastructure as Code, Kubernetes, GitOps, and Zero-Trust security principles.
+
+Focused on **platform engineering, DevSecOps maturity, and multi-cloud governance at scale.**
 
 ---
 
 ## 📊 Impact at Scale
 
-| Outcome | Impact |
-|---------|--------|
-| Deployment Velocity | 🚀 40% faster releases |
-| Security Posture | 🔐 30% fewer critical vulnerabilities |
-| Deployment Frequency | 📈 +50% |
-| Infra Maintenance Overhead | 🛠️ -30% |
-| Enterprise Migrations | ☁️ 80+ Apps Modernized |
-| K8s Microservices | 🧠 50+ Services on Enterprise Platforms |
-| Reliability | 🟢 100% uptime (critical systems) |
+| Domain                     | Measurable Outcome                     |
+| -------------------------- | -------------------------------------- |
+| 🚀 Release Velocity        | 40% Faster Deployments                 |
+| 🔐 Security Posture        | 30% Fewer Critical Vulnerabilities     |
+| 📈 Deployment Frequency    | +50% Improvement                       |
+| 🛠 Infra Overhead          | 30% Reduction                          |
+| ☁ Enterprise Modernization | 80+ Applications Migrated              |
+| ☸ Kubernetes Platforms     | 50+ Microservices                      |
+| 🟢 Reliability             | 100% Uptime (Mission-Critical Systems) |
 
 ---
 
-## 🏗️ Platform Engineering Blueprint
+## 🏗 Enterprise Platform Engineering Blueprint
 
 ```text
-Enterprise Governance
+Enterprise Governance & Guardrails
         │
-Infrastructure as Code (Terraform Modules)
+Reusable Terraform Modules (IaC)
         │
-CI/CD + GitOps Automation
+CI/CD Pipelines + GitOps Automation
         │
-Kubernetes Platforms (EKS | AKS | GKE)
+Enterprise Kubernetes Platforms (EKS | AKS | GKE)
         │
-Integrated DevSecOps Scanning & Policy-as-Code
+Integrated DevSecOps & Policy-as-Code
         │
 Zero-Trust IAM + Network Segmentation
-````
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technology Stack
 
-### ☁️ Cloud Platforms
+## ☁️ Cloud Platforms
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-### 🏗 Infrastructure as Code
+## 🏗 Infrastructure as Code
 
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>  
-<img src="https://img.shields.io/badge/ARM-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-### ☸️ Containers & GitOps
+## ☸️ Containers & GitOps
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>  
-<img src="https://img.shields.io/badge/ArgoCD-FE5000?style=flat-square&logo=argo&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-FE5000?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
 
-### 🔐 DevSecOps & Security Tools
+## 🔐 DevSecOps & Security
 
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Checkov-2C3E50?style=flat-square"/>  
-<img src="https://img.shields.io/badge/Tfsec-5C2D91?style=flat-square"/>  
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Checkov-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tfsec-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -89,7 +99,7 @@ Zero-Trust IAM + Network Segmentation
 
 ---
 
-## 🏆 Certifications & Professional Development
+## 🏆 Certifications
 
 ✔ Microsoft Certified: Azure Administrator Associate (AZ-104)
 ✔ Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
@@ -97,16 +107,16 @@ Zero-Trust IAM + Network Segmentation
 
 ---
 
-## 🎯 Open to
+## 🎯 Currently Open To
 
-* Senior Platform / Cloud Architecture Roles
-* Principal / Staff DevSecOps Positions
-* Enterprise Cloud Strategy & Automation Leadership
-* High-Scale Security & DevOps Engineering Initiatives
+* Senior / Staff Platform Engineering Roles
+* Principal DevSecOps Leadership
+* Enterprise Cloud Transformation Initiatives
+* Security-First Architecture Programs
 
 ---
 
-## 📌 Philosophy
+## 📌 Engineering Philosophy
 
 ```bash
 Design for Scale
@@ -118,4 +128,4 @@ Measure Everything
 
 ---
 
-⭐ **Let’s build resilient, secure, and automated cloud platforms — together.** 😎
+⭐ **Let’s build resilient, secure, and enterprise-grade cloud platforms.**
