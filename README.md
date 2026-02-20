@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=0A66C2&center=true&vCenter=true&width=1000&lines=Shiva+Kumar;Senior+Cloud+DevSecOps+Consultant;Enterprise+Multi-Cloud+Architect;Terraform+Platform+Engineering+Specialist;Zero-Trust+Security+Advocate" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME/azure-landing-zone-terraform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=azure-landing-zone-terraform&theme=github_dark"/>
-  </a>
-  <a href="https://github.com/shivagaddam777/azure-terraform-cicd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivagaddam777&repo=azure-terraform-cicd&theme=github_dark"/>
-  </a>
-</p>
 ---
 
 # 👋 Hey, I’m Shiva Kumar
@@ -18,6 +10,16 @@
 
 📍 Toronto, Canada 🇨🇦
 🔐 Designing secure, automated, enterprise-scale cloud platforms
+
+---
+
+## 🚀 Featured Azure Terraform Repository
+
+<p align="center">
+  <a href="https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivagaddam777&repo=cloud-devsecops-enterprise-platform&theme=github_dark&border=true"/>
+  </a>
+</p>
 
 ---
 
