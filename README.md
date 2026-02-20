@@ -8,7 +8,7 @@
 
 ### Senior Cloud DevSecOps Consultant | Enterprise Platform Architect
 
-📍 Toronto, Canada 🇨🇦
+📍 Canadian Citizen 🇨🇦
 🔐 Designing secure, automated, enterprise-scale cloud platforms
 
 ---
