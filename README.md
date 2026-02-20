@@ -24,8 +24,10 @@ Focused on **platform engineering, DevSecOps maturity, and multi-cloud governanc
 ## 🚀 Featured Repositories
 
 🔹 **Cloud DevSecOps Enterprise Platform**  
-Enterprise-grade Azure platform built with Terraform, DevSecOps scanning, and Zero-Trust principles.  
 👉 https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform
+
+🔹 **Cloud-terraform-azure**  
+👉 https://github.com/shivagaddam777/cloud-terraform-azure
 
 ---
 
