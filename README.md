@@ -15,11 +15,9 @@
 
 ## 🚀 Featured Azure Terraform Repository
 
-<p align="center">
-  <a href="https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivagaddam777&repo=cloud-devsecops-enterprise-platform&theme=github_dark&border=true"/>
-  </a>
-</p>
+🔹 **Cloud DevSecOps Enterprise Platform**  
+Enterprise-grade Azure platform built with Terraform, DevSecOps scanning, and Zero-Trust principles.  
+👉 https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform
 
 ---
 
