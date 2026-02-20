@@ -109,9 +109,9 @@ Zero-Trust IAM + Network Segmentation
 
 ## 🏆 Certifications
 
-✔ Microsoft Certified: Azure Administrator Associate (AZ-104)
-✔ Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
-✔ Rogers Cybersecurity Catalyst Program Graduate
+[![AZ-104](https://img.shields.io/badge/Microsoft_Azure-AZ--104-blue?style=flat-square)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+[![AZ-400](https://img.shields.io/badge/Microsoft_Azure-AZ--400-blue?style=flat-square)](https://learn.microsoft.com/en-us/certifications/azure-devops/)
+[![Rogers Cybersecurity](https://img.shields.io/badge/Rogers-Cybersecurity%20Catalyst-green?style=flat-square)](https://www.rogers.com/cybersecurity-catalyst)
 
 ---
 
