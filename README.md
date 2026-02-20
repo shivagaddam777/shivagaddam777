@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 Featured Azure Terraform Repository
-
-🔹 **Cloud DevSecOps Enterprise Platform**  
-Enterprise-grade Azure platform built with Terraform, DevSecOps scanning, and Zero-Trust principles.  
-👉 https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform
-
----
-
 ## 💼 Professional Summary
 
 I transform complex enterprise cloud environments into **secure, scalable, and fully automated platforms** using Infrastructure as Code, Kubernetes, GitOps, and Zero-Trust security principles.
 
 Focused on **platform engineering, DevSecOps maturity, and multi-cloud governance at scale.**
+
+---
+
+## 🚀 Featured Repositories
+
+🔹 **Cloud DevSecOps Enterprise Platform**  
+Enterprise-grade Azure platform built with Terraform, DevSecOps scanning, and Zero-Trust principles.  
+👉 https://github.com/shivagaddam777/cloud-devsecops-enterprise-platform
 
 ---
 
